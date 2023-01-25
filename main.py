@@ -4,4 +4,4 @@ try:
     total = item_price + (item_price*(vat/100))
     print(round(total))
 except:
-    print("Invalid Inputs")
+    print("Invalid Input")
